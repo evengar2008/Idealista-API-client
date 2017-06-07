@@ -5,8 +5,8 @@ class Idealista {
 	private $res; //response
 	private $pageNumber;
 	private $version;
-	private $key = 'fswkp66erz840wecv74krjb7g6bs3yg9';
-	private $secret = 'R7i77cqhitOi';
+	private $key = '';
+	private $secret = '';
 	private $mapping;
 	private $country;
 	private $viewButton;
